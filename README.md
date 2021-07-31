@@ -1,6 +1,6 @@
 ### Hey, welcome to my GitHub!
 <p>
-  My name is Marco Scarlata and I am a Software Engineering specializing in Web Development. Currently I'm interning for a small start-up as a Full Stack Engineer Intern working on their job shadowing platform. I'll be graduating the University of Rochester in 2022 with a major in Computer Science and a double minor in Mathematics and Psychology. On my free time, I love to swim and beatbox!
+  My name is Marco Scarlata and I am a Software Engineer specializing in Full-Stack Web Development. Currently I'm interning for a small start-up as a Full Stack Engineer Intern working on their job shadowing platform. I'll be graduating the University of Rochester in 2022 with a major in Computer Science and a double minor in Mathematics and Psychology. On my free time, I love to swim and beatbox!
 </p>
 
 ---
