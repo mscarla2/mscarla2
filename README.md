@@ -1,6 +1,8 @@
 ### Hey, welcome to my GitHub!
 <p>
-  My name is Marco Scarlata and I am a generalist Software Engineer with a penchant for Machine Learning and Web Development. Currently, I'm a Software Engineer for Pital & Co, helping push out enterprise-level tools for our clients. As part of the Top Emerging Talent program at Pangea, I've been able to experience a variety of different SWE/Data Science tasks that have been constistently shooting me up into the vertical in terms of hard skills. I'll be graduating the University of Rochester in 2022 with a major in Computer Science and a double minor in Mathematics and Psychology. <br/>
+  My name is Marco Scarlata and I am a generalist Software Engineer with a penchant for Machine Learning and Web Development. Currently, I'm a Software Engineer for Pital & Co, helping push out enterprise-level tools for our clients. Here the mission is to put our customers first, and engage with them collaboratively to make the best product. 
+  
+  Also as part of the Top Emerging Talent program at Pangea, I've been able to experience a variety of different SWE/Data Science tasks that have been constistently shooting me up into the vertical in terms of hard skills. I'll be graduating the University of Rochester in 2022 with a major in Computer Science and a double minor in Mathematics and Psychology. <br/>
   On my free time, I love to swim and beatbox!
 </p>
 
