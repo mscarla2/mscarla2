@@ -1,6 +1,6 @@
 ### Hey, welcome to my GitHub!
 <p>
-  My name is Marco Scarlata and I am a generalist Software Engineer with a penchant for Machine Learning and Web Development. I've been working as a SWE for Pital & Co for the past half a year, helping push out enterprise-level tools for our clients. At Pital, the mission is to put our customers first, and engage with them collaboratively to make the best product. Beyond that, I have my own personal mission of delivering accessible software that unlocks our unlimited capacity for growth!
+  My name is Marco Scarlata and I am a generalist Software Engineer with a penchant for Machine Learning and Web Development. Currently, I'm an incoming SWE @ Google but I've been working as a SWE for Pital & Co for the past half a year, helping push out enterprise-level tools for our clients. At Pital, the mission is to put our customers first, and engage with them collaboratively to make the best product. Beyond that, I have my own personal mission of delivering accessible software that unlocks our unlimited capacity for growth!
 </p>
 <p>
   I'll be graduating the University of Rochester in 2022 with a major in Computer Science and a double minor in Mathematics and Psychology. 
