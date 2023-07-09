@@ -1,19 +1,15 @@
 ### Hey, welcome to my GitHub!
 <p>
-  My name is Marco Scarlata. I'm a generalist Software Engineer with a penchant for Machine Learning and Web Development. I graduated the University of Rochester in 2022 with a major in Computer Science and a double minor in Mathematics and Psychology. Currently, I'm a SWE @ Google and prior to that I've worked on numerous projects as an independent freelancer helping push out enterprise-level tools for my clients. At my core, my mission has always been to put our customers first, and engage with them collaboratively to make the best product. Beyond that, I have my own personal mission of delivering accessible software that unlocks our unlimited capacity for growth! 
+  My name is Marco Scarlata and I'm a generalist Software Engineer with a penchant for Machine Learning and Web Development. I graduated the University of Rochester in 2022 with a major in Computer Science and a double minor in Mathematics and Psychology. Currently, I'm a SWE @ Google and prior to that I've spent some time interning at a few Seed A startups and worked on numerous projects as an independent freelancer helping push out enterprise-level tools for my clients. At my core, my mission has always been to put our customers first, and engage with them collaboratively to make the best product. Beyond that, I have my own personal mission of delivering accessible software that unlocks our unlimited capacity for growth! 
 </p>
-<p>
-   
-  <br/>
-  On my free time, I love to swim and beatbox!
-</p>
+
 
 ---
 
 ### Tech Stack
 
 <p>
-  <img alt="C++" src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social"/>
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge" />
